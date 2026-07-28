@@ -34,4 +34,3 @@ However, most existing systems lack the capability to:
 * Provide a dashboard for monitoring incident trends and performance
 
 
-![Screenshot 2026-07-28 at 12.35.46 PM.png](../../../../var/folders/j_/s8z9_tk553q4pj1p2n8wshgc0000gp/T/TemporaryItems/NSIRD_screencaptureui_PVEQSt/Screenshot%202026-07-28%20at%2012.35.46%E2%80%AFPM.png)
